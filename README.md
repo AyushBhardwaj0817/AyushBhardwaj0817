@@ -1,7 +1,7 @@
 
 # Hello, I'm Ayush Bhardwaj👋
 
-I'm a passionate Developer | Designer from gurugram. I love to code and design cool stuff.
+Transforming ideas into digital experiences. Proficient in HTML, CSS, JavaScript. Passionate about clean code, responsive design, and turning challenges into elegant solutions. Let's build something remarkable!
 
 ## 🚀 Skills
 
@@ -22,8 +22,8 @@ I'm a passionate Developer | Designer from gurugram. I love to code and design c
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername/)
-- Email: er.AyushBhardwaj17gmail.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ayush-bhardwaj-818b982a2)
+- Email: er.ayushbhardwaj17gmail.com
 
 ## 🎨 GitHub Stats
 
@@ -36,7 +36,7 @@ I'm a passionate Developer | Designer from gurugram. I love to code and design c
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername/)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ayush-bhardwaj-818b982a2)
 
 - Portfolio: [Your Portfolio](https://yourportfolio.com)
 
