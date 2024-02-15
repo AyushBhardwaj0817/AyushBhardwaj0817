@@ -23,7 +23,7 @@ Transforming ideas into digital experiences. Proficient in HTML, CSS, JavaScript
 ## 📫 Contact Me
 
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ayush-bhardwaj-818b982a2)
-- Email: [Email](er.ayushbhardwaj17gmail.com)
+- Email: er.ayushbhardwaj17gmail.com
 - Portfolio: [Your Portfolio](https://ayushbhardwajportfolio.netlify.app)
 
 ## 🎨 GitHub Stats
