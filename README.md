@@ -12,7 +12,7 @@ Transforming ideas into digital experiences. Proficient in HTML, CSS, JavaScript
 
 ## 💻 Projects
 
-- [Project 1](https://github.com/AyushBhardwaj0817/Registration-Form.git): Registration Form.
+- [Project 1](https://github.com/AyushBhardwaj0817/goldsgym.git): Fitness App.
 - [Project 2](https://github.com/AyushBhardwaj0817/pricing-landing-page.git): pricing landing page .
 
 ## 🌱 Currently Learning
