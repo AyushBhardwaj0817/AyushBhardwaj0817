@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Node.js, React, Postgresql, MongoDB Etc.**
 
-- 📫 How to reach me **https://ayushbhardwajportfolio.netlify.app**
+- 📫 How to reach me **https://ayushbhardwaj-portfolio.netlify.app/**
 
 
 
